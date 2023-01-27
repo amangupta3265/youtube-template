@@ -84,3 +84,7 @@ iframe{
     display: flex;
     align-items: center;
 }
+
+.settings{
+    border: none;
+}
